@@ -1,16 +1,15 @@
-## Hi there 👋
+  ### Hi, I'm Victor
+                                                            
+  Building developer tools for AI agents.
+  
+  **Working on:**
+  - [agent-express](https://github.com/agent-express-ai/agent-express) — middleware framework for AI agents in TypeScript
+  - Serverless at [Yandex.Cloud](https://yandex.cloud/en)
+  - MCP Hub, Code Interpreter and Workflows at [Yandex AI Studio](https://aistudio.yandex.ru/en)
 
-<!--
-**kvikuz/kvikuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Interested in:** 
+  - AI agents
+  - middleware patterns
+  - developer experience
+  - serverless 
+  - cloud infrastructure
